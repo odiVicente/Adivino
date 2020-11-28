@@ -3,7 +3,7 @@ package vicenteadivino;
 
 import java.util.Scanner;
 
-
+/* CORRECCIÓN: Al borrar las carpetas que sobraban ahora el proyecto no muestra ningun error y funciona correctamente.  */
 public class VicenteAdivino {
 
   public static void main(String[] args) {
